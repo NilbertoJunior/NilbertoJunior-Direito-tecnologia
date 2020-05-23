@@ -1,1 +1,16 @@
-// teste de salvar arquivo
+Algoritmo "1º código criado  - Aula guilherme Reis"
+Var
+// Seção de Declarações das variáveis
+   Nome: caractere
+
+   
+
+Inicio
+      nome <- "Nilberto Junior"
+
+      Escreval ("Bem Vindo Professor da Arnaldo")
+      Escreval ("Exercício de Treinameto - Aula 01")
+      Escreval ("O aluno é ", nome)
+      
+
+Fimalgoritmo
